@@ -91,10 +91,12 @@ $venda = [
 
 ### 8. Crie uma função que receba uma lista de números e retorne uma nova lista contendo apenas os números pares da lista original, mas em ordem inversa.
 >Exemplo: [1, 2, 3, 4, 5, 6]
+>
 >Saída: [6, 4, 2]
 
 ### 9. Você tem um array de inteiros. Escreva um algoritmo para encontrar o número que aparece mais vezes no array. Se houver um empate, retorne o menor número.
 >Entrada: [1, 2, 2, 3, 3, 3, 4, 4, 4, 4]
+>
 >Saída: 4
 
 ### 10. Dado um array de números inteiros [5, 9, 1, 5, 6, 2], escreva um código que ordene os elementos do array em ordem crescente. Em seguida, retorne o segundo menor número no array ordenado.
