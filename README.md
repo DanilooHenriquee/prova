@@ -1,4 +1,4 @@
-### 1. Como você cria um array em PHP e quais os diferentes tipos de array vc conhece?
+### 1. Como você cria um array em PHP e quais os diferentes tipos de array você conhece?
 
 ### 2. Explique o que são sessões em PHP e como você as utiliza.
 
@@ -86,7 +86,7 @@ $venda = [
 >a. Crie uma função para retornar o somatório da venda
 >
 >b. Utilizando as implementações acima, imprima a mensagem a baixo:
-// "A cliente <nomeCliente>, cpf: <cpf> realizou uma compra no valor R$ <somatorio>"
+// "A cliente {nomeCliente}, cpf: {cpf} realizou uma compra no valor R$ {somatorio}"
 
 
 ### 8. Crie uma função que receba uma lista de números e retorne uma nova lista contendo apenas os números pares da lista original, mas em ordem inversa.
